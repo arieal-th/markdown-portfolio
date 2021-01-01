@@ -1,1 +1,11 @@
-Replace this with a list of your favorite things.
+### Shortterm goals for Github Use 
+- Complete all selected tutorials 
+- Daily use
+  - Personal projects
+  - Different course lessons
+  - Collab with James
+- Basic Art portfolio
+- Text adventure game 
+- Company database 
+- Bug checker program
+- Daily coding challenges
